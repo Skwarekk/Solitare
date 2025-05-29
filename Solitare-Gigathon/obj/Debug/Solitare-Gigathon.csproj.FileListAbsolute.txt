@@ -1,0 +1,10 @@
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\bin\Debug\Solitare-Gigathon.exe.config
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\bin\Debug\Solitare-Gigathon.exe
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\bin\Debug\Solitare-Gigathon.pdb
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\obj\Debug\Solitare-Gigathon.csproj.AssemblyReference.cache
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\obj\Debug\Solitare-Gigathon.csproj.CoreCompileInputs.cache
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\obj\Debug\Solitare.C0DB8D70.Up2Date
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\obj\Debug\Solitare-Gigathon.exe
+C:\Users\oskar\Desktop\Projekty\C#\Solitare-Gigathon\Solitare-Gigathon\obj\Debug\Solitare-Gigathon.pdb

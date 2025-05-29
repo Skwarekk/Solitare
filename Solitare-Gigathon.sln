@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solitare-Gigathon", "Solitare-Gigathon\Solitare-Gigathon.csproj", "{C3011B14-E891-4043-A90E-2B6E8A0F933B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Info.txt = Info.txt
+		README = README
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3011B14-E891-4043-A90E-2B6E8A0F933B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3011B14-E891-4043-A90E-2B6E8A0F933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3011B14-E891-4043-A90E-2B6E8A0F933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3011B14-E891-4043-A90E-2B6E8A0F933B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8F1B12A-0232-4B51-94BF-184BE2EB3732}
+	EndGlobalSection
+EndGlobal
