@@ -15,7 +15,7 @@ namespace Solitare
         public static List<Card>[] colorDecks = new List<Card>[4];
         public static List<Card> spareCards = new List<Card>();
         public static int howManyMoves;
-        public static int drawedSpareCards;
+        public static int drawedSpareCards; // Określa ile do tej pory kart zostało dobranych z stosu rezerwowego. Wartość się zeruje w przypadku dojścia do końca stosu.
 
         private static void SetDifficulty() //Funkcja odpowiada za ustawienie poziomu trudności
         {

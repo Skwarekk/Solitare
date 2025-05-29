@@ -14,8 +14,6 @@ namespace Solitare
       new CardColor("\u2665", ConsoleColor.Red)
     }; //Lista zawierająca wszystkie kolory kart.
 
-        private static int drawedSpareCards; // Określa ile do tej pory kart zostało dobranych z stosu rezerwowego. Wartość się zeruje w przypadku dojścia do końca stosu.
-
         private static List<Card> DeckSetup() //Funkcja zwraca tablicę posiadającą całą talię kart.
         {
             List<Card> cards = new List<Card>();
@@ -143,7 +141,7 @@ namespace Solitare
                 else
                 {
                     Display.Refresh();
-                    GameManager.Write("There is no cards draw!");
+                    GameManager.Write("There is no drawed cards.");
                     GameManager.Wait();
                     Display.Refresh();
                     goto restart;
@@ -393,21 +391,22 @@ namespace Solitare
 
             if (GameManager.spareDeck.Count > 0)
             {
-                for (int i = 0; i < everyHowManyCards; i++)
+                if (GameManager.spareDeck.Count <= GameManager.drawedSpareCards + everyHowManyCards)
                 {
-                    int whitchCard = drawedSpareCards + everyHowManyCards;
+                    GameManager.drawedSpareCards = 0;
+                    ShuffleCards(GameManager.spareDeck);
+                    GameManager.Write("end of the spare deck. Shullfing...");
+                    GameManager.Wait();
+                    return;
+                }
 
-                    if (GameManager.spareDeck.Count < whitchCard)
-                    {
-                        drawedSpareCards = 0;
-                        ShuffleCards(GameManager.spareDeck);
-                        GameManager.Write("end of the spare deck. Shullfing...");
-                        GameManager.Wait();
-                        return;
-                    }
+                for (int i = 1; i <= everyHowManyCards; i++)
+                {
+                    int whitchCard = GameManager.drawedSpareCards + i;
+
                     GameManager.spareCards.Add(GameManager.spareDeck[whitchCard - 1]);
 
-                    drawedSpareCards++;
+                    GameManager.drawedSpareCards++;
                 }
             }
             else
