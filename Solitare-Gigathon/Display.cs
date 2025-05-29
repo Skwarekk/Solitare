@@ -186,7 +186,7 @@ namespace Solitare
         public static void DisplayMoveCounter() // Funkcja wyświetla ilość wykonanych dotychczas ruchów.
         {
             Console.ForegroundColor = spareDeckColor;
-            Console.Write($"You made {GameManager.howManyMoves} moves.\n");
+            Console.Write($"You've made {GameManager.howManyMoves} moves.\n");
             ResetFontColor();
         }
 
@@ -282,8 +282,8 @@ namespace Solitare
         {
             Clear();
             Console.ForegroundColor = ScreenColor;
-            Console.Write("Welcome! \n\n" +
-                "Before you start here are some improtant differents from the original game:\n" +
+            Console.Write("Welcome in my Solitare game! \n\n" +
+                "Before you start here are some improtant informations:\n" +
                 "1. In the game there is a T card instead of 10, but it's value hasn't changed.\n" +
                 "2. You can type 'help' to see important commands.\n\n" +
                 "Enjoy! :D\n");

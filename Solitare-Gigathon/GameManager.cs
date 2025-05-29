@@ -66,7 +66,7 @@ namespace Solitare
             Display.Clear();
             Console.OutputEncoding = Encoding.UTF8;
             Display.StartScreen();
-            Display.Refresh();
+            Display.Clear();
             SetDifficulty();
             SetUsername();
             CardsManager.SetupDecks();

@@ -1,0 +1,27 @@
+Cała gra opiera się na obiektach Card. Obiekt ten posiada oczywiste wartości takie jak figura i kolor karty, ale też takie wartości jak isSelected oraz isVisible.
+Z kart są zbudowane takie elementy gry jak: Plansza, Stos rezerwowy, Stosy końcowe.
+
+Plansza jest listą 2 wymiarową.
+Stos rezerwowy to poprostu lista.
+A stosy finalne to 4 elementowa tablica list.
+
+Funkcja MoveCardsOntoAnotherColumn w klasie CardsManager pobiera zaznaczone karty oraz kolumnę na którą mają zostać przesunięte karty.
+Następnie sprawdzane jest czy ruch jest poprawny.
+Potem program usuwa zaznaczone karty i dodaje je do kolumny, którą podał użytkownik.
+Jeśli zaznaczona kolumna jest pusta. Program sprawdza czy karta jest królem lub w przypadku gdy więcej kart jest zaznaczonych, czy cała sekwencja zaczyna się od króla. Jeśli tak to można wykonać ruch.
+
+Funkcja MoveCardsOntoColorDecks również w klasie CardsManager pobiera zaznaczone karty i sprawdza czy karta jest jedna.
+Jeśli jest tylko jedna to sprawdzamy czy karta to As. Jeśli jest to as to kartę dajemy na pierwszy wolny stos. Jeśli nie to sprawdzamy czy możemy dać kartę na któryś stos.
+Jeśli ruch jest możliwy to usuwamy kartę z kolumny lub z stosu rezerwowego i dodajemy do stosu finalnego.
+
+Funkcja DrawCardFromSpareDeck w zależności od poziomu trudności dobiera odpowiednią ilość kart.
+
+
+Klasa Display wyświetla wszystkie te elementy iterując przez wszystkie tablice. Każda karta ma określony kolor i kolor czcionki zmienia się w zależności od koloru.
+Klasa bierze również pod uwagę własności isSelected i isVisible i zmienia kolor w zależności od sytuacji.
+
+
+Tabela wyników działa za pomocą pliku Json. Na koniec gry tworzy się nowy obiekt Score któremu nadaje się wartości odpowiednie do wyniku gracza, poziomu trudności i nazwy użytkownika.
+Następnie obiekt ten dodawany jest do listy, która jest sortowana, a następnie zapisywana w pliku Json.
+
+na końcu gry wyświetlają się 3 najlepsze wyniki.

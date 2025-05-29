@@ -3,35 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\README||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|c:\\users\\oskar\\desktop\\projekty\\c#\\solitare-gigathon\\solitare-gigathon\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|c:\\users\\oskar\\desktop\\projekty\\c#\\solitare-gigathon\\solitare-gigathon\\scoreboard.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\scoreboard.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|c:\\users\\oskar\\desktop\\projekty\\c#\\solitare-gigathon\\solitare-gigathon\\cardsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\cardsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|c:\\users\\oskar\\desktop\\projekty\\c#\\solitare-gigathon\\solitare-gigathon\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|c:\\users\\oskar\\desktop\\projekty\\c#\\solitare-gigathon\\solitare-gigathon\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\solitare-gigathon\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|c:\\users\\oskar\\desktop\\projekty\\c#\\solitare-gigathon\\solitare-gigathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\solitare-gigathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|c:\\users\\oskar\\desktop\\projekty\\c#\\solitare-gigathon\\solitare-gigathon\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\solitare-gigathon\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\solitare-gigathon\\scoreboard.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\scoreboard.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Info.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Info.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\README||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\solitare-gigathon\\cardsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\cardsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\solitare-gigathon\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3011B14-E891-4043-A90E-2B6E8A0F933B}|Solitare-Gigathon\\Solitare-Gigathon.csproj|solutionrelative:solitare-gigathon\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,11 +46,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Info.txt",
+              "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Info.txt",
+              "RelativeDocumentMoniker": "Info.txt",
+              "ToolTip": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Info.txt",
+              "RelativeToolTip": "Info.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-29T18:46:16.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "README",
               "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\README",
               "RelativeDocumentMoniker": "README",
@@ -54,12 +70,11 @@
               "RelativeToolTip": "README",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-29T17:44:33.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T17:44:33.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ScoreBoard.json",
               "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\ScoreBoard.json",
               "RelativeDocumentMoniker": "Solitare-Gigathon\\ScoreBoard.json",
@@ -67,12 +82,11 @@
               "RelativeToolTip": "Solitare-Gigathon\\ScoreBoard.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-29T17:16:03.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T17:16:03.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ScoreBoard.cs",
               "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\ScoreBoard.cs",
               "RelativeDocumentMoniker": "Solitare-Gigathon\\ScoreBoard.cs",
@@ -80,12 +94,11 @@
               "RelativeToolTip": "Solitare-Gigathon\\ScoreBoard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:14:51.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T17:14:51.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "InputManager.cs",
               "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\InputManager.cs",
               "RelativeDocumentMoniker": "Solitare-Gigathon\\InputManager.cs",
@@ -93,25 +106,24 @@
               "RelativeToolTip": "Solitare-Gigathon\\InputManager.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:14:30.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T17:14:30.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Display.cs",
               "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\Display.cs",
               "RelativeDocumentMoniker": "Solitare-Gigathon\\Display.cs",
               "ToolTip": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\Display.cs",
               "RelativeToolTip": "Solitare-Gigathon\\Display.cs",
-              "ViewState": "AgIAAPgAAAAAAAAAAAAswB0BAABFAAAAAAAAAA==",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAALwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T17:14:02.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CardsManager.cs",
               "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\CardsManager.cs",
               "RelativeDocumentMoniker": "Solitare-Gigathon\\CardsManager.cs",
@@ -119,31 +131,30 @@
               "RelativeToolTip": "Solitare-Gigathon\\CardsManager.cs",
               "ViewState": "AgIAAFwBAAAAAAAAAAAmwF8BAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:13:42.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T17:13:42.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\GameManager.cs",
               "RelativeDocumentMoniker": "Solitare-Gigathon\\GameManager.cs",
               "ToolTip": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\GameManager.cs",
               "RelativeToolTip": "Solitare-Gigathon\\GameManager.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwEUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T17:12:28.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\Program.cs",
               "RelativeDocumentMoniker": "Solitare-Gigathon\\Program.cs",
               "ToolTip": "C:\\Users\\oskar\\Desktop\\Projekty\\C#\\Solitare-Gigathon\\Solitare-Gigathon\\Program.cs",
               "RelativeToolTip": "Solitare-Gigathon\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T17:09:33.215Z",
               "EditorCaption": ""

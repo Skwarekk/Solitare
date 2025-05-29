@@ -1,0 +1,50 @@
+Witam! w tym pliku zawarłem ważne informacje do mojego projektu.
+
+---------- Użyte paczki ------------
+
+Użyłem paczki Newtonsoft.Json do prostszego manipulowania plikami Json.
+
+----------- Uruchamianie -----------
+
+Należy uruchomić plik Solitare.exe
+
+------------ Instrukcje ------------
+
+Po uruchomieniu projektu program spyta o poziom trudności i nazwę użytkownika.
+Po wybraniu poziomu trudności i nazwy rozpocznie się gra.
+
+Sterowanie w grze opiera się na komendach.
+Aby wyświetlić podstawowe komendy należy wpisać 'help'.
+Podstawowe komendy:
+
+QUIT - Wyłącza grę.
+RESTART - Resetuje grę.
+RENAME - Pozwala zmienić nazwę użytkownika.
+SELECT - Wybór karty z planszy lub z stosu rezerwowego.
+DRAW - W zależności od poziomu trudności dobiera odpowiednią ilość kart, ALE NIE ZAZNACZA ICH!!! Należy je zaznaczyć poleceniem SELECT.
+GUIDE - Wyświetla wszystkie komendy związane z wyznaczoną kartą.
+
+Po zaznaczeniu karty możemy wpisać jedną z komend, które można zobaczyć po wpisaniu 'guide'.
+Komendy:
+
+MOVE - Porusza kartę na inną kolumnę.
+COLOR - Porusza kartę na stos końcowy.
+NONE - Nic nie robi z kartą i odznacza ją. Stosowane w przypadku zaznaczenia karty przez pomyłkę.
+
+Gdy na stosach końcowych
+
+Po zakończeniu gry zostanie wyświetlony ekran końcowy na którym pokaże się 3 najlepszych użytkowników w tablicy wyników.
+W tablicy wyników zostanie uwzględniona liczba ruchów, nazwa użytkownika oraz poziom trudności.
+
+Ważne informacje:
+
+1. Gra działa jedynie w języku angielskim.
+2. W grze zamiast figury 10 istnieje figura T, ponieważ 10 ma 2 znaki i plansza była by nie równa.
+3. Nazwa użytkownika nie może być zajęta w tabeli wyników.
+
+------------ Opis kodu ------------
+
+W komentarzach kodu jest opisana pokrótce każda fukcja i klasa.
+W pliku Info.txt jest opisane ogólne działanie programu.
+
+Miłej gry :D
